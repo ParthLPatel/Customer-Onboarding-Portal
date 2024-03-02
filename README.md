@@ -3,9 +3,9 @@
 This repository contains the code for a customer onboarding portal focused on credit card services, with integrated cross-selling functionality for checking and savings accounts. The portal aims to enhance customer engagement and revenue generation for financial institutions.
 
 ## Demo
-
+```
 https://manulife-bank-onboarding.netlify.app/
-
+```
 ## Features
 
 - **Credit Card Onboarding**: Seamless process for customers to apply for credit cards.
@@ -28,7 +28,7 @@ https://manulife-bank-onboarding.netlify.app/
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/customer-onboarding-portal.git
+git clone https://github.com/Parth-Patel-CGI/CustomerOnboardingPortal
 
 ```
 #### Install dependencies:
