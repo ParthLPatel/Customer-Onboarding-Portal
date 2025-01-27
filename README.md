@@ -4,7 +4,7 @@ This repository contains the code for a customer onboarding portal focused on cr
 
 ## Demo
 ```
-https://manulife-bank-onboarding.netlify.app/
+https://creditcard-onboarding-portal.netlify.app/
 ```
 ## Features
 
