@@ -25,7 +25,7 @@ function UserTypePage() {
         // Hide the "Thank you" message and "Apply Now" button
         // setShowThankYou(false);
 
-        window.location.href = 'https://www.cgi.com/en';
+        window.location.href = 'https://www.bmo.com/en-ca/main/personal/';
     };
 
     return (
