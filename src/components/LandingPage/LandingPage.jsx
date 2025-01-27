@@ -300,7 +300,7 @@ const LandingPage = () => {
           </div>
 
             {/* Action Buttons */}
-            <Link to="###" className="text-decoration-none" 
+            <Link to="/get-started" className="text-decoration-none" 
               style={{
                 display: 'flex',
                 borderTop: '1px solid lightgray',
